@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ali Mustafa 👋
 
-<!--
-**alimustafa-dev99/alimustafa-dev99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and aspiring software developer interested in backend engineering, full-stack development, and AI-powered applications.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** Python, PHP, JavaScript, SQL
+- **Web Development:** HTML, CSS, Object-Oriented PHP
+- **Databases:** MySQL
+- **AI Development:** LangChain, LLM APIs, AI chatbots
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **Tech Mart** — E-commerce application built with Object-Oriented PHP and MySQL.
+- **FireBun** — Food ordering website with PHP, MySQL, and an admin panel.
+- **AI Projects** — Chatbot and search-agent applications built with Python and LLM tools.
+
+### 🎯 Currently Learning
+- Laravel and modern backend development
+- Retrieval-Augmented Generation (RAG)
+- API development and software testing
+
+##
+### 🤝 Connect With Me
+
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/ali-mustafa-samo)
+- **Portfolio:** [My Portfolio](alimustafa.epizy.com)
+- **Email:** alimustafasamo@gmail.com
+
+I'm always looking to learn, build useful software, and contribute to open-source projects.
