@@ -23,7 +23,7 @@ I'm a student and aspiring software developer interested in backend engineering,
 ### 🤝 Connect With Me
 
 - **LinkedIn:** [Ali Mustafa Samo](https://www.linkedin.com/in/ali-mustafa-samo)
-- **Portfolio:** [My Portfolio](alimustafa.epizy.com)
+- **Portfolio:** [My Portfolio](https://alimustafa-portfolio.epizy.com/)
 - **Email:** alimustafasamo@gmail.com
 
 I'm always looking to learn, build useful software, and contribute to open-source projects.
